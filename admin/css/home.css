@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxcenter{
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.rowheaderadmin{
+    background-color: #8BBCCC;
+    padding: 30px;
+}
+.rowheaderadmin h1{
+    color: #fff;
+
+}
+.rowmenu{
+    text-align: center;
+    background-color: #4C6793;
+    padding: 10px;
+}
+
+.rowmenu ul li{
+    display: inline-block;
+    margin-left: 32px;
+
+}
+.rowmenu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.rowmenu ul li a:hover{
+    color: #000;
+}
+.rowformtile{
+    background-color: #5C2E7E;
+    padding: 15px;
+}
+.rowformtile h1{
+    color: #fff;
+}
+.rowinput{
+    padding: 10px;
+}
+.rowinput input{
+    width: 100%;
+    height: 30px;
+    
+}
